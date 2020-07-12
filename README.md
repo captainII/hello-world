@@ -1,2 +1,12 @@
 # hello-world
-My fisrt github journey
+
+``` 
+#include <iostream> 
+using namespace std; 
+
+int main() 
+{ 
+  cout << "Hello world, hello Sciki" << endl; 
+} 
+
+``` 
